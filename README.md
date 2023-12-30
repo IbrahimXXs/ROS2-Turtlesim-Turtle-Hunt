@@ -1,4 +1,4 @@
-ROS2 Turtlesim Turtle Hunter
+ROS2 Turtlesim Turtle Pursuit
 =====================
 
 ## Overview
