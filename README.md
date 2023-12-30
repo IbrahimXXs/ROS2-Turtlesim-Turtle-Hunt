@@ -3,7 +3,7 @@ ROS2 Turtlesim Turtle Pursuit
 
 ## Overview
 
-### *ROS2 Turtlesim Hunter is a mini project designed for Robot Operating System 2 (ROS2). It employs Python coding and ROS2 concepts, utilizing the Turtlesim Turtle to hunt and touch newly spawned turtles with a specific velocity. When the hunter turtle touches them, the targeted turtles disappear.*
+### *ROS2 Turtlesim Pursuit is a project designed for Robot Operating System 2 (ROS2). It employs Python coding and ROS2 concepts, utilizing the Turtlesim Turtle to hunt and touch newly spawned turtles with a specific velocity. When the hunter turtle touches them, the targeted turtles disappear.*
 
 #### Concepts Used:
 
