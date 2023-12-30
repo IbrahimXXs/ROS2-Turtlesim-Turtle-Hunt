@@ -49,7 +49,7 @@ Clone the repository and run the provided Python script to execute the heart dis
 
 #### License:
 
-Coded by Ibrahim Sarraj with the Help of Udemy Course
+Coded by Ibrahim Sarraj
 This project is licensed under the MIT License. Feel free to contribute, provide feedback, or raise issues if you encounter any problems. Happy coding!
 
 
