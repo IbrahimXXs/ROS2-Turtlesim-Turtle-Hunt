@@ -23,7 +23,9 @@ ROS2 Turtlesim Hunter is a mini project designed for Robot Operating System 2 (R
 
 Make sure you have ROS2 installed. If not, follow the [official installation guide](https://index.ros.org/doc/ros2/Installation/).
 
-Clone the repository to your ROS2 workspace:
+**Usage:**
 
-```bash
-git clone https://github.com/IbrahimXXs/ROS2-Turtlesim-Turtle-Hunt.git
+Clone the repository and run the provided Python script to execute the heart disease prediction models. Customize the models, parameters, or dataset as needed for your specific use case.
+
+**License:**
+This project is licensed under the MIT License. Feel free to contribute, provide feedback, or raise issues if you encounter any problems. Happy coding!
