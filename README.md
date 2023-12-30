@@ -26,4 +26,4 @@ Make sure you have ROS2 installed. If not, follow the [official installation gui
 Clone the repository to your ROS2 workspace:
 
 ```bash
-git clone https://github.com/yourusername/ros2-turtlesim-hunter.git
+git clone https://github.com/IbrahimXXs/ROS2-Turtlesim-Turtle-Hunt.git
